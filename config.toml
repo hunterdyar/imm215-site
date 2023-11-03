@@ -1,4 +1,4 @@
-baseURL = 'https://hdyar.com/imm103/'
+baseURL = 'https://imm215.hdyar.com/'
 languageCode = 'en-us'
-title = 'Immersive Media 103'
+title = 'Programming for Immersive Experiences'
 theme = "hugo-theme-onepagecourse"
