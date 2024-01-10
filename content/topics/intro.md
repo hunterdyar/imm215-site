@@ -1,6 +1,6 @@
 ---
 title: Introduction
-topic: 0
+topic: 1
 ---
 - **In Class 1**: Syllabus, C# Fundamentals.
 - **In Class 2**: In Class Exercise, Statements & Expressions
