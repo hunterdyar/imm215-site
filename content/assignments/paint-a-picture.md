@@ -1,6 +1,7 @@
 ---
 title: Paint a Picture
 order: 2
+draft: true
 ---
 
 ## Objective

@@ -1,5 +1,6 @@
 ---
 title: 2D Character Controller
+order: 2
 ---
 
 ## Objective
@@ -63,12 +64,20 @@ Other games have basic movement, like Street Fighter, My Friend Pedro, or Katana
 We are not designing a game, don’t feel pressured to make an extremely interesting mechanic with a good “hook” (gimmick). Just pick something that’s interesting to you and do it. 
 
 ## Getting Started
+[Ways To Move A 2D GameObject](https://youtu.be/r0Wv_gtB4pg) (Unlisted Video, for Wed class)
+
 Complete examples for this (that also will help for next week’s assignment) are available as a Unity project you can download and investigate: https://github.com/hunterdyar/UnitySimpleCharacterControllers
+
 Click the green “Code” button and then “Download Zip”. Unzip it, then add the folder in Unity Hub as a unity project. Change the version of Unity to one you have installed and open it\
+
 Obviously you can’t just copy that code, but it should certainly help you figure out some functions/tools are available to you.  
+
 To move a player, you will modify it’s transform.position property. You can do this directly, or with support functions like transform.Rotate and transform.Translate. More information on transform at the scripting api: https://docs.unity3d.com/ScriptReference/Transform.html
+
 Alternatively, you can use a Rigidbody2D component, and edit it’s velocity property. You can do that directly for a velocity based system, or use the AddForce and AddTorque for an acceleration based system.
+
 Instead of thinking about “position, velocity, or acceleration” just think of a kind of game – asteroids, side scrolling shooter, sokabon/grid puzzler, infinite runner, platformer, etc etc – and try and make a controller for that kind of movement.
+
 I do not recommend platformer. A simple one is easy enough, but they get quite time consuming to fine-tune. Coyote time, and mild input-buffering. Trust me, I’ve spent weeks on one once.
 
 ## 2D Physics
