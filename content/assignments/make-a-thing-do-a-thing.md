@@ -1,7 +1,7 @@
 ---
 title: Make A Thing Do A Thing
 layout: Assignment
-order: 1
+order: 4
 ---
 
 Create a new project or use the character controller. Or use someone else's character controller.
