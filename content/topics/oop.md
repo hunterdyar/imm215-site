@@ -7,4 +7,4 @@ topic: 7
 - **Reading**: [Object Oriented Programming](https://guidebook.hdyar.com/docs/programming/advanced/object-oriented-programming/)
 - **Reading**: [Object Oriented Syntax](https://guidebook.hdyar.com/docs/programming/advanced/object-oriented-syntax/)
 - **Assignment 1**: [Oop Puzzles]({{< ref "../assignments/oop-puzzles.md" >}})
-- **Assignment 2**: Interaction System
+- **Assignment 2**: [Interaction System]({{< ref "../assignments/interaction-system.md" >}})
