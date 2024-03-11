@@ -12,10 +12,12 @@ It can be something else with a similar structure and use case – run your idea
 First, I recommend building off of one of your character controllers, or use a character controller from the [sample code](https://github.com/hunterdyar/UnitySimpleCharacterControllers) as a starting example place.
 
 - A parent/child class setup for something in your project. (Items)
-- A system that allows other elements in your project to use these (Player picking up items, or an inventory, etc.) 
+- A system that allows other elements in your project to use these (Player picking up items, or an inventory, etc.)
+- At least 3 children classes that inheiret from at least one parent classes.
 - This system utilizes the hierarchical class relationships to function. (i.e.: Children objects override a virtual parent function, or objects use functions defined on interfaces). In other words, at some point code is being called “on” the parent class or “on” the interface, even though the code that is executing is a child.
 - Appropriate elements (like public functions) should exist to let other parts of your project hook into and out of the system. In an interaction system, this might be things like interacting with the item, picking it up, checking if a reference to an item exists in an inventory, or getting a list of all of the objects you have (the UI might draw icons for them all). 
-- It makes sense. One has selected a reasonable use of an interaction system. 
+- It makes sense. One has selected a reasonable use of an interaction system.
+- It's a new system, not using built-ins (e.g. The fact that we are likely inheireting from MonoBehaviour doens't count for this).
 
 *The prototypical (and titular) example is an interaction system. See below for details.*
 
