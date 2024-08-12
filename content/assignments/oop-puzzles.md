@@ -34,7 +34,7 @@ When you’re done, compile all of the classes into a single file and upload jus
 ![A screenshot of code](/assignmentInfo/oop2.png)
 
 ## Resources
-- [Object Oriented Syntax](https://guidebook.hdyar.com/docs/programming/advanced/object-oriented-syntax/)
+- [Object Oriented Syntax](https://guidebook.hdyar.com/csharp/advanced/object-oriented-syntax/)
 - [Polymorphism](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism)
 - [Inheritance](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritance)
-- [OOP Guidebook page](https://guidebook.hdyar.com/docs/programming/advanced/object-oriented-programming/)
+- [OOP Guidebook page](https://guidebook.hdyar.com/csharp/advanced/object-oriented-programming/)
