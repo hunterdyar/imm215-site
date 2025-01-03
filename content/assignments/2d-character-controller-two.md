@@ -48,6 +48,6 @@ Your best resource is the example projects. Don't follow guides, but try to reve
 - GitHub Repo with example projects and code [https://github.com/hunterdyar/UnitySimpleCharacterControllers](https://github.com/hunterdyar/UnitySimpleCharacterControllers)
 - Information on Namespaces in Unity: [https://docs.unity3d.com/Manual/Namespaces.html](https://docs.unity3d.com/Manual/Namespaces.html)
 - Unofficial resource on Unity attributes: [https://unity3d.college/2017/05/22/unity-attributes/](https://unity3d.college/2017/05/22/unity-attributes/)
-- Serialization and Attributes Video: [https://guidebook.hdyar.com/docs/programming/unity-and-programming/tips-and-tricks/serialization-and-attributes/](https://guidebook.hdyar.com/docs/programming/unity-and-programming/tips-and-tricks/serialization-and-attributes/)
+- Serialization and Attributes Video: [https://guidebook.hdyar.com/unity/unity-and-programming/serialization-and-attributes/](https://guidebook.hdyar.com/unity/unity-and-programming/serialization-and-attributes/)
 
 *Good programming makes it easy to be lazy in the future.*
