@@ -4,7 +4,8 @@ topic: 2
 ---
 
 Week One
-- **In Class**: MLK Day, Moving Objects, Remote Class
+- **In Class**: Moving Objects, Compartmentalizing Code
+- **In Class**: Behaviours, Data & References, Challenge
 - **Assignment**: [2D Character Controller]({{< ref "../assignments/2d-character-controller.md" >}})
 - **Lecture**: [Ways To Move A 2D GameObject](https://youtu.be/r0Wv_gtB4pg) (Unlisted Video, for Wed class)
 - **Reading**: [Project Basics](https://guidebook.hdyar.com/unity-starting/unity-fundamentals/project-basics/)
