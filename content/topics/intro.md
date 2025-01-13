@@ -4,7 +4,7 @@ topic: 1
 ---
 - **In Class 1**: Syllabus, Install [Jetbrains Rider](/content/topics/creating-behaviours.md), C# Fundamentals, Statements & Expressions
 - **In Class 2**: Looking at Roll-a-Ball, Conditionals
-- **Assignment**: [Roll a Ball]({{< ref "../assignments/roll-a-ball.md" >}}) due Thursday.
+- **Assignment**: [Roll a Ball]({{< ref "../assignments/roll-a-ball.md" >}}).
 - **Reading**: [Welcome to Programming](https://hdyar.com/blog/posts/welcometoprogramming/)
 - **Reading**: [Syntax](https://guidebook.hdyar.com/docs/programming/fundamentals/basic-syntax/)
 - **Reading**: [Syntax of Code Flow](https://guidebook.hdyar.com/docs/programming/fundamentals/syntax-of-code-flow/)
