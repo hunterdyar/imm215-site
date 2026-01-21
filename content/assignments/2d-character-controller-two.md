@@ -14,10 +14,10 @@ You must meet the following requirements:
 6.	Use only one-way dependencies (for this script: the input system depends on the character controller, but the character controller doesn’t care where input is from). We are avoiding “interdependencies”. The character controller doesn’t know or care about the input script at all.
 7.	Comments that include your name and how the script(s) should be set up. (So I could set up a scene from your uploaded .cs files).
 Above/Beyond/Out of scope:
-1.	Handling output events/broadcasts/actions to inform other systems of things like special collisions or animation state changes. Basically, our output is just going to be movement.
-2.	Handling player states like “isDead” or “canMove” if they weren’t needed for the core system to work.
-3.	Use Attributes to add labels and organize how the component looks in the Inspector
-4.	Include tests (with Debug.LogWarning or Debug.LogError) to inform the developer if the component is set up incorrectly, and force their hand with attributes like “RequireComponent”.
+      -    Handling output events/broadcasts/actions to inform other systems of things like special collisions or animation state changes. Basically, our output is just going to be movement.
+      - Handling player states like “isDead” or “canMove” if they weren’t needed for the core system to work.
+      - Use Attributes to add labels and organize how the component looks in the Inspector 
+      - Include tests (with Debug.LogWarning or Debug.LogError) to inform the developer if the component is set up incorrectly, and force their hand with attributes like “RequireComponent”.
 The only dependency this code should have is that the input system relies on the character controller. Which, yeah. Of course! Be sure to use a unique namespace. With that, I should be able to import every students code into one unity project and have 0 conflicts, even if they are all called “TheBestCharacterController”.
 
 ## Submission
